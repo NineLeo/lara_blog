@@ -1,6 +1,4 @@
 /vendor
 .idea/*
 .env
-blog.zip
-/blog_origin
-composer.lock
+/composer.lock
